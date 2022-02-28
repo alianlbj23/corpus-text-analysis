@@ -1,0 +1,4 @@
+job2-4
+*.pyc
+.env
+.DS_Store

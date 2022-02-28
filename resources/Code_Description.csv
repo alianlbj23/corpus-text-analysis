@@ -1,0 +1,25 @@
+Code,Full Name,Description,Mandarin
+WC,Word Count,Number of words used,字數
+SC,Sentence Count,Number of sentences used,句數
+MLS,Mean Length of Sentence,Number of words used in a sentence,平均句長
+VR,Verb Ratio,Number of verbs used/number of words,動詞使用率
+NR,Noun Ratio,Number of nouns used/number of words,名詞使用率
+AdvR,Adverb Ratio,Number of adverbs used/number of words,副詞使用率
+AdjR,Adjective Ratio,Number of adjectives used/number of words,形容詞使用率
+PronR,Pronoun Ratio,Number of pronouns used/number of words,代名詞使用率
+ConjR,Conjunction Ratio,Number of conjunction used/number of words,連接詞使用率
+AdpR,Adposition Ratio,Number of adposition used/number of words,介詞使用率
+PrtR,Particle Ratio,Number of particles used/number of words,助詞使用率
+QR,Quantity Ratio,Number of quantitative words used/number of words,量詞使用率
+LD,Lexical Density,Number of content words used/number of words,實詞密度
+NDW,Number of Different Words,Number of different words used,相異字數量
+TTR,Type–Token Ratio,Number of different words used/number of words,生字率
+LV,Lexical Word Variation,Number of different content words used/number of content words,實詞變化率
+VV1,Verb Variation-I,Number of different verb words used/number of verb words,動詞變化率
+VV2,Verb Variation-II,Number of different verb words used/number of content words,實詞中動詞變化率
+NV,Noun Variation,Number of different noun words used/number of content words,名詞變化率
+AdjV,Adjective Variation,Number of different adjective words used/number of content words,形容詞變化率
+AdvV,Adverb Variation,Number of different adverb words used/number of content words,副詞變化率
+ModV,Modifier Variation,Number of different adjective words and verb words used/number of content words,修飾語變化率
+DiWR,Difficult Words Ratio,Number of difficult words/number of words,難字比率
+HW,Highly Used Words,Words used with high frequency,高頻率使用字

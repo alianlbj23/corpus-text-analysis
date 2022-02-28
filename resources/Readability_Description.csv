@@ -1,0 +1,3 @@
+Code,Full Name,Formula,Features
+Gunning Fog,"The Fog Scale (Gunning, 1952)",0.4[(words/sentences)+100(difficult words/words)],平均句長 (MLS)、難字比例 (DiWR)
+The New Dale-Chall,"Dale-Chall Readability Score (Chall & Dale, 1995)",3.6365+{0.1579{100-{[(WC-difficult words)/WC]*100}}+0.0496[(words/sentences)]},平均句長 (MLS)、難字比例 (DiWR)
