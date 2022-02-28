@@ -5,7 +5,7 @@ Brotli==1.0.9
 catalogue==2.0.6
 certifi==2021.5.30
 charset-normalizer==2.0.6
-click==8.0.1
+click==7.1.2
 cnsenti==0.0.7
 colorama==0.4.4
 cycler==0.10.0
